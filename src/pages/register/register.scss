@@ -1,0 +1,23 @@
+page-register {
+    text-align: center;
+    
+    ion-input{
+        color: color($colors, light);
+    }
+
+    p{
+        color: color($colors, light);
+    }
+    ion-content{
+        margin-top: 8em;
+    }
+    p{
+        color: #000;
+    }
+    input{
+        color:#000;
+    }
+    #btnRegister{
+        margin-top: 10em;
+    }
+}

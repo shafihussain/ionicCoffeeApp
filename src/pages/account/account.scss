@@ -1,0 +1,34 @@
+page-account {
+    .logo{
+        width: 40%;
+        height: 50%;
+    }
+    ion-toolbar{
+        text-align: center;
+    }
+    h1, h2{
+        color: #000;
+    }
+    ion-icon{
+        font-size: 3.125em;
+        color: #fff;
+    }
+    ion-label{
+        color: #fff;
+        font-size: 1.375em;
+    }
+    ion-badge{
+        font-size: 1.125em;
+    }
+    .myRewards{
+        text-align: center;
+    }
+    p{
+        color: #000;
+    }
+    #account_back{
+        background-color: #FFC837;
+        
+    }
+
+}

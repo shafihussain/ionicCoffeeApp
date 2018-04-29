@@ -1,0 +1,32 @@
+page-login {
+    text-align: center;
+    p{
+        color: color($colors, dark);
+    }
+    .logo{
+        width: 30%;
+        height: 10%;
+    }
+    ion-toolbar{
+        text-align: center;
+    }
+    ion-title{
+        color: black;
+    }
+    #btn{
+        margin-top: 3em;
+        width: 80%;
+    }
+    #btnReg{
+        width: 80%;
+    }
+    img{
+        margin-top: 2em;
+    }
+    input{
+        color:#000;
+    }
+    #spacing{
+        margin-top: 2em;
+    }
+}
